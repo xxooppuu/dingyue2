@@ -2,4 +2,4 @@ cf1.102.ee:80#US优选节点ntls
 cf2.102.ee:80#US优选节点ntls
 cf3.102.ee:2052#US优选节点ntls
 cf4.102.ee:8080#US优选节点ntls
-cf5.102.ee:2086#US优选节点ntls
+cf5.102.ee:2086#US优选节点ntl
